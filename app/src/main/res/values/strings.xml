@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CatatanHarian</string>
+    <string name="catatan">NOTES</string>
+    <string name="logo_kominfo">Logo Kominfo</string>
+    <string name="tambah_catatan">Tambah Catatan</string>
+    <string name="nama_file">Nama File</string>
+    <string name="catatann">Catatan</string>
+    <string name="simpan">Simpan</string>
+</resources>
